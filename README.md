@@ -16,22 +16,7 @@
 
 
 ### Project Structure
-IDSProject/
-│
-├── data/
-│   ├── raw/                  ← original datasets (unchanged)
-│   ├── processed/            ← cleaned/filtered data
-│
-├── scripts/            
-│   └──  Data_Cleaning&EDA.ipynb
-│   └── Model_Training.ipynb
-│ 
-├── results/
-│   ├── main.py/              ← plots, charts, visualizations
-│   └── reports/              ← generated PDFs or DOCXs
-│
-├── requirements.txt          ← list of Python packages (or environment.yml)
-└── README.md                 ← project overview and usage instructions
+<pre lang="markdown"> ``` IDSProject/ ├── data/ │ ├── raw/ ← original datasets (unchanged) │ └── processed/ ← cleaned/filtered data │ ├── scripts/ │ ├── Data_Cleaning&EDA.ipynb │ └── Model_Training.ipynb │ ├── results/ │ ├── main.py/ ← plots, charts, visualizations │ └── reports/ ← generated PDFs or DOCXs │ ├── requirements.txt ← list of Python packages └── README.md ← project overview and instructions ``` </pre>
 
 
 ### Data Sources
