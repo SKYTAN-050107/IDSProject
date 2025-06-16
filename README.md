@@ -1,4 +1,4 @@
-# Introduction to Data Science WIE2003 project
+# 🎧 WIE2003 IDSproject: Spotify Global Music Trend Prediction
 -Spotify global music trend prediction
 ### Introduction
 - To model global music trend predictions using machine learning algorithms
