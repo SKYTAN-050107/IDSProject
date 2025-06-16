@@ -1,11 +1,11 @@
 # 🎧 WIE2003 IDSproject: Spotify Global Music Trend Prediction
--Spotify global music trend prediction
+- Spotify global music trend prediction
 ### Introduction
 - To model global music trend predictions using machine learning algorithms
 - Key problems 
-1.What features or factors (e.g., tempo, genre, artist popularity, region) most strongly influence the rise of music trends globally?
-2.Can machine learning models be trained to predict which songs, genres, or artists are likely to trend in the near future based on historical and real-time data?
-3.How accurate and generalizable are these predictions across different geographic and cultural markets?
+1. What features or factors (e.g., tempo, genre, artist popularity, region) most strongly influence the rise of music trends globally?
+2. Can machine learning models be trained to predict which songs, genres, or artists are likely to trend in the near future based on historical and real-time data?
+3. How accurate and generalizable are these predictions across different geographic and cultural markets?
 
 
 ### Installation Instructions
@@ -53,8 +53,8 @@ https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-
 
 
 ### Credits or Contributors
-1.Nazhan Fahim bin Mohammad Najib
-2.Sanjeevan A/L Kumareson
-3.Nia Zahra binti Shamsul Muhardzi
-4.Madhaeys A/L Sathiamoorthy
-5.Tan Shi Kai
+1. Nazhan Fahim bin Mohammad Najib
+2. Sanjeevan A/L Kumareson
+3. Nia Zahra binti Shamsul Muhardzi
+4. Madhaeys A/L Sathiamoorthy
+5. Tan Shi Kai
